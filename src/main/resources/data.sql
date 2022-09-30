@@ -1,0 +1,2 @@
+INSERT INTO tbl_user(user_id, username, password, user_role, name, gender, phone, email, address) 
+VALUES (1, 'banker', 'banker', 1, 'Banker', 'Male', '88888888', 'banker@bankapploan.com', 'Banker App Loan Singapore');
